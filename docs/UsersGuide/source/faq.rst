@@ -492,8 +492,8 @@ in the case build directories. These files are called ufs.bldlog.YYMMDD-HHMMSS
 and atm.bldlog.YYMMDD-HHMMSS, and may be compressed using ``gzip``. In this case,
 unzip them using ``gunzip``.
 
-How can I fix build errors of type _Make Error at CMakeLists.txt:180 (add_executable) ... This is now an error according to policy CMP0004_
-=============================================================================================================================================
+How can I fix build errors of type ``Make Error at CMakeLists.txt:180``
+=======================================================================
 
 If the model build fails with an error message like
 
